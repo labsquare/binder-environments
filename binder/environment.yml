@@ -68,3 +68,4 @@ dependencies:
 - nbgitpuller
 - pip:
     - jupyter-desktop-server
+    - cutevariant
