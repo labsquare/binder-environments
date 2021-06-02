@@ -6,6 +6,7 @@ xfce4-settings
 xorg
 xubuntu-icon-theme
 libxss1
+libxcb-xinerama0
 libpci3
 libasound2
 fonts-ubuntu
